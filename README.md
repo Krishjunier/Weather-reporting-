@@ -143,18 +143,11 @@ Big thanks to the team for their support and guidance!
 ## 📬 Contact
 
 **Gokul Krishnan**
-- 📧 Email: [your.email@example.com](mailto:gk5139272@gmail.com)
-- 🔗 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/gokul-krishnan-yn-1633a9258/)
-- 🔗 GitHub: [Your GitHub Profile](https://github.com/Krishjunier)
+- 📧 Email: [Email](mailto:gk5139272@gmail.com)
+- 🔗 LinkedIn: [Profile](https://www.linkedin.com/in/gokul-krishnan-yn-1633a9258/)
+- 🔗 GitHub: [GitHub Profile](https://github.com/Krishjunier)
 
 ---
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
 ## ⭐ Show Your Support
 
 If you found this project helpful, please give it a ⭐ on GitHub!
